@@ -2,7 +2,7 @@
 ## About me
 
 - 🌎 I'm from Praia Grande, São Paulo, Brazil 
-- 🖥 Web FullStack Development Student at Generation Brazil
+- 🖥 Web Full Stack Development Student at Generation Brazil
 
 ## Learning
 <div style="display: inline_block"><br>
