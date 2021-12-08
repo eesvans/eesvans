@@ -20,8 +20,8 @@
 ## Stats
 <div>
   <a href="https://github.com/eesvans">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eesvans&theme=synthwave&show_icons=true" />
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eesvans&layout=compact&langs_count=16&theme=synthwave" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eesvans&theme=dark&show_icons=true" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eesvans&layout=compact&langs_count=16&theme=dark" />
 </div>
   
 ## Contact
